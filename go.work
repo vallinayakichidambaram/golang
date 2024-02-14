@@ -1,0 +1,9 @@
+go 1.21.6
+use (
+    ./hello-world
+    ./lasagna
+    ./annalyns-infiltration
+    ./weather-forecast
+    ./cars-assemble
+    ./welcome-to-tech-palace
+)
