@@ -6,4 +6,5 @@ use (
     ./weather-forecast
     ./cars-assemble
     ./welcome-to-tech-palace
+    ./party-robot
 )
